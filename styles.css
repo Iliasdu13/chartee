@@ -1,0 +1,27 @@
+.Rouge {
+        font-weight: bolder;
+        color: rgb(148, 0, 0);
+       
+}
+.Centre {
+    text-align: center;
+}
+.fle {
+    display: flex;
+    flex-direction: column;
+}
+.partie {
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto 10px auto;
+    background-color: rgb(204, 34, 34);
+    padding: 20px;
+    width: 350px;
+}
+li {
+    font-size: 18px;
+}
+.fle2 {
+    display: flex;
+    flex-direction: row;
+}
